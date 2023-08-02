@@ -1,4 +1,4 @@
-[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlVD8W-ixxkSQ5msxPezMikU7_RXOfuwZ19Q&usqp=CAU](https://lingosoft.com.tr/images/is-zekasi-is-analitigi.jpg))
+![MasterHead](https://st.myideasoft.com/idea/ct/82/myassets/blogs/programlama-dilleri.jpg?revision=1581689813)
 <h1 align="center">Merhaba 👋, ben Pınar UĞRAK</h1>
 <h3 align="center">Eksim de Veri Analitiği ve Raporlama Uzmanı olarak çalışıyorum!</h3>
 
