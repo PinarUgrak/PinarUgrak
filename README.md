@@ -16,3 +16,6 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=pinarugrak&show_icons=true&locale=en" alt="pinarugrak" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinarugrak&" alt="pinarugrak" /></p>
+
+
+![snake gif](https://github.com/PinarUgrak/PinarUgrak/blob/output/github-contribution-grid-snake.gif)
